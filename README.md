@@ -1,3 +1,7 @@
+Test Accounts:
+demo@example.com / password123
+test@user.com / testpass
+
 ```
 /src
   /components        # Reusable UI components
